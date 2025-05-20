@@ -1,7 +1,7 @@
 # --- Jogo de Adivinhação de Cores ---
 # Inspirado no Jogo Senhas da Grow, criado na década de 70/80
 # Versão fácil
-# O usuário terá 5 tentativas para adivinhar quais são as 3 cores escolhidas aleatóriamente, entre 5 cores, previamente definidas, e a ordem de cada uma.
+# O usuário terá 5 tentativas para adivinhar quais foram as 3 cores escolhidas, entre 5 cores previamente definidas, e a ordem de cada uma delas.
 #
 # --- Configurações do Jogo ---
 # CORES_DISPONIVEIS = ["amarelo", "azul", "branco", "verde", "vermelho"]
